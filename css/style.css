@@ -16,6 +16,10 @@ p {
   font-size: 20px;
 }
 
+.link {
+  color: #2888D4;
+}
+
 .button-collapse {
   color: #26a69a;
 }
