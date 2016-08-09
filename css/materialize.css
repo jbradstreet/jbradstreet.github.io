@@ -2653,7 +2653,7 @@ ul.browser-default {
 }
 
 a {
-  color: #039be5;
+  color: black;
   text-decoration: none;
   -webkit-tap-highlight-color: transparent;
 }
